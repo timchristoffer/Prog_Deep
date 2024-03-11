@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591472D8-3174-4DAE-A663-42343FC9ABAA}|PasswordTester\\PasswordTester.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\uppgifter\\passworduppgift\\passwordtester\\passwordtester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{591472D8-3174-4DAE-A663-42343FC9ABAA}|PasswordTester\\PasswordTester.csproj|solutionrelative:passwordtester\\passwordtester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591472D8-3174-4DAE-A663-42343FC9ABAA}|PasswordTester\\PasswordTester.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\uppgifter\\passworduppgift\\passwordtester\\passwordtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591472D8-3174-4DAE-A663-42343FC9ABAA}|PasswordTester\\PasswordTester.csproj|solutionrelative:passwordtester\\passwordtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA7A81-F95D-4E94-B7A3-21D3EF9A9454}|PasswordUppgift\\PasswordUppgift.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\passworduppgift\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EA7A81-F95D-4E94-B7A3-21D3EF9A9454}|PasswordUppgift\\PasswordUppgift.csproj|solutionrelative:passworduppgift\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA7A81-F95D-4E94-B7A3-21D3EF9A9454}|PasswordUppgift\\PasswordUppgift.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\passworduppgift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EA7A81-F95D-4E94-B7A3-21D3EF9A9454}|PasswordUppgift\\PasswordUppgift.csproj|solutionrelative:passworduppgift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordTester",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordTester\\PasswordTester.csproj",
+              "RelativeDocumentMoniker": "PasswordTester\\PasswordTester.csproj",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordTester\\PasswordTester.csproj",
+              "RelativeToolTip": "PasswordTester\\PasswordTester.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T12:03:43.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordTester.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordTester\\PasswordTester.cs",
+              "RelativeDocumentMoniker": "PasswordTester\\PasswordTester.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordTester\\PasswordTester.cs",
+              "RelativeToolTip": "PasswordTester\\PasswordTester.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:42:49.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordUppgift\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "PasswordUppgift\\PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordUppgift\\PasswordValidator.cs",
+              "RelativeToolTip": "PasswordUppgift\\PasswordValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:01:35.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordUppgift\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordUppgift\\Program.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Uppgifter\\PasswordUppgift\\PasswordUppgift\\Program.cs",
+              "RelativeToolTip": "PasswordUppgift\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:42:10.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

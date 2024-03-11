@@ -1,0 +1,7 @@
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\bin\Debug\Rep Uppgift 3.exe.config
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\bin\Debug\Rep Uppgift 3.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\bin\Debug\Rep Uppgift 3.pdb
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\obj\Debug\Rep Uppgift 3.csproj.AssemblyReference.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\obj\Debug\Rep Uppgift 3.csproj.CoreCompileInputs.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\obj\Debug\Rep Uppgift 3.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Repetition\Rep Uppgift 3\Rep Uppgift 3\obj\Debug\Rep Uppgift 3.pdb

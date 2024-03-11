@@ -1,0 +1,14 @@
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\bin\Debug\Sales Adventure 2000.exe.config
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\bin\Debug\Sales Adventure 2000.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\bin\Debug\Sales Adventure 2000.pdb
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\obj\Debug\SalesAdventure2000.csproj.AssemblyReference.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\obj\Debug\SalesAdventure2000.csproj.CoreCompileInputs.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\obj\Debug\Sales Adventure 2000.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\Sales Adventure 2000\Sales Adventure 2000\obj\Debug\Sales Adventure 2000.pdb
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\bin\Debug\Sales Adventure 2000.exe.config
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\bin\Debug\Sales Adventure 2000.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\bin\Debug\Sales Adventure 2000.pdb
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\obj\Debug\SalesAdventure2000.csproj.AssemblyReference.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\obj\Debug\SalesAdventure2000.csproj.CoreCompileInputs.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\obj\Debug\Sales Adventure 2000.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\SalesAdventure2000\Sales Adventure 2000\obj\Debug\Sales Adventure 2000.pdb

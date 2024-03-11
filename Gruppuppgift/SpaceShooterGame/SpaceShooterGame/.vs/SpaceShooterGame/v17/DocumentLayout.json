@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Gruppuppgift\\SpaceShooterGame\\SpaceShooterGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02C90A-EBB1-4113-AE7B-435DD3FFDA50}|SpaceShooterGame\\SpaceShooterGame.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\gruppuppgift\\spaceshootergame\\spaceshootergame\\spaceshootergame\\icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{ED02C90A-EBB1-4113-AE7B-435DD3FFDA50}|SpaceShooterGame\\SpaceShooterGame.csproj|solutionrelative:spaceshootergame\\icon.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Icon.bmp",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Gruppuppgift\\SpaceShooterGame\\SpaceShooterGame\\SpaceShooterGame\\Icon.bmp",
+              "RelativeDocumentMoniker": "SpaceShooterGame\\Icon.bmp",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Gruppuppgift\\SpaceShooterGame\\SpaceShooterGame\\SpaceShooterGame\\Icon.bmp",
+              "RelativeToolTip": "SpaceShooterGame\\Icon.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-08T10:22:52.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
