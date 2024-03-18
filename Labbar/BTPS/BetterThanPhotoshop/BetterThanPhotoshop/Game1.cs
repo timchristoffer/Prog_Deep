@@ -14,82 +14,89 @@ namespace BetterThanPhotoshop
         private DrawingArea _drawingArea;
         private Menu _menu;
         private ColorMenu _colorMenu;
-        private DrawingProgram.ShapeType _currentShapeType = DrawingProgram.ShapeType.Circle; // Default shape type
+        private DrawingProgram.ShapeType _currentShapeType = DrawingProgram.ShapeType.Circle; // Standardformen är en cirkel.
 
+        // Konstruktorn för Game1-klassen.
         public Game1()
         {
+            // Skapar en grafikhanterare och ange rotdiket för innehållet.
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
-            // Ställ in önskad upplösning
-            _graphics.PreferredBackBufferWidth = 800;
-            _graphics.PreferredBackBufferHeight = 600;
-
-            // Säkerställ att fönstret har denna storlek
+            // Ställer in önskad upplösning och möjliggör ändring av fönsterstorlek.
+            _graphics.PreferredBackBufferWidth = 1200;
+            _graphics.PreferredBackBufferHeight = 800;
             Window.AllowUserResizing = true;
 
+            // Visar muspekaren i spelet.
             IsMouseVisible = true;
         }
 
-        // Metod för att spara ritad bild som en PNG-fil
+        // Metod för att spara ritad bild som en PNG-fil.
         public void SaveDrawingAsImage(RenderTarget2D renderTarget, string filePath)
         {
-            Console.WriteLine("Saving drawing as image..."); // Felsökning
+            Console.WriteLine("Saving drawing as image..."); // Skriver ut meddelande för att bekräfta sparande (för felsökning).
+            // Öppnar en ström för att skapa en fil för sparande.
             using (Stream stream = File.Create(filePath))
             {
-                renderTarget.SaveAsPng(stream, renderTarget.Width, renderTarget.Height);
+                renderTarget.SaveAsPng(stream, renderTarget.Width, renderTarget.Height); // Sparar renderingen som en PNG-fil.
             }
         }
 
+        // Metod för att initialisera spelet.
         protected override void Initialize()
         {
+            // Skapar en spritebatch.
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // Skapa en instans av DrawingArea
+            // Skapar ett ritningsområde och ett ritningsprogram och skicka med spritebatchen.
             _drawingArea = new DrawingArea(GraphicsDevice.Viewport.Width - 250, GraphicsDevice.Viewport.Height, Content.Load<Texture2D>("DrawingArea")); // Justera bredden på ritningsområdet
-
-            // Skapa en instans av DrawingProgram och skicka med en instans av DrawingArea
             _drawingProgram = new DrawingProgram(_spriteBatch, _drawingArea);
 
-            // Skapa en instans av Menu och skicka med texturerna, skärmens höjd och DrawingArea
+            // Skapar en meny och en färgmeny och skicka med referenser och innehållsmanagern.
             _menu = new Menu(GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height, Content, _drawingArea);
-
-            // Skapa ett ColorMenu-objekt med referenser till Menu-knapparna
             _colorMenu = new ColorMenu(GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height, _menu.Buttons, Content);
+
+            _menu.SetPosition(GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height);
 
             base.Initialize();
         }
 
+
+        // Metod för att uppdatera spelet.
         protected override void Update(GameTime gameTime)
         {
+            // Uppdaterar menyn och färgmenyn.
             _menu.Update();
             _colorMenu.Update();
+
+            // Hämtar den valda färgen från färgmenyn och skicka den till ritningsprogrammet.
             Color? selectedColor = _colorMenu.GetSelectedColor();
             if (selectedColor.HasValue)
             {
-                _drawingProgram.ChangeColor(selectedColor.Value); // Skicka den valda färgen till ritningsprogrammet
+                _drawingProgram.ChangeColor(selectedColor.Value);
             }
 
-            // Kolla om Save-knappen är klickad
+            // Kollar om Spara-knappen är klickad.
             if (_menu.IsSaveButtonClicked())
             {
-                // Skapa en render target för att rita det ritade området
+                // Skapar en render target för att rita det ritade området.
                 RenderTarget2D renderTarget = new RenderTarget2D(GraphicsDevice, _drawingArea.Width, _drawingArea.Height);
 
-                // Rita det ritade området till render target
+                // Ritar det ritade området till render target.
                 GraphicsDevice.SetRenderTarget(renderTarget);
                 GraphicsDevice.Clear(Color.Transparent);
                 _drawingArea.Draw(_spriteBatch);
                 GraphicsDevice.SetRenderTarget(null);
 
-                // Spara render target som bild
+                // Sparar render target som en bild.
                 SaveDrawingAsImage(renderTarget, "Drawing.png");
 
-                // Radera render target efter användning
+                // Rensar render target efter användning.
                 renderTarget.Dispose();
             }
 
-            // Check if a shape button is clicked and update the current shape type accordingly
+            // Kollar om en formknapp är klickad och uppdatera aktuell formtyp.
             string shapeType;
             if (_menu.IsShapeButtonClicked(out shapeType))
             {
@@ -107,34 +114,38 @@ namespace BetterThanPhotoshop
                 }
             }
 
-            // Check if Undo button is clicked and perform undo operation
+            // Kollar om Undo-knappen är klickad och utför ångrad åtgärd.
             if (_menu.IsUndoButtonClicked())
             {
                 _drawingProgram.Undo();
             }
 
-            // Check if Clear button is clicked and perform clear operation
+            // Kollar om Clear-knappen är klickad och utför rensningsåtgärd.
             if (_menu.IsClearButtonClicked())
             {
                 _drawingProgram.Clear();
             }
 
-            // Update the drawing program with the current shape type and color
-            _drawingProgram.Update(gameTime, _currentShapeType, _drawingArea.CurrentColor, _drawingArea.Bounds); // Använd egenskapen CurrentColor istället för GetColor()
+            // Uppdaterar ritningsprogrammet med aktuell formtyp och färg.
+            _drawingProgram.Update(gameTime, _currentShapeType, _drawingArea.CurrentColor, _drawingArea.Bounds);
+
+            base.Update(gameTime);
         }
 
+        // Metod för att rita spelet.
         protected override void Draw(GameTime gameTime)
         {
+            // Rensar skärmen med vit färg.
             GraphicsDevice.Clear(Color.White);
-            _spriteBatch.Begin(); // Begin ritningen
+            _spriteBatch.Begin(); // Börjar ritning.
 
-            // Rita färgmenyn, ritningsprogrammet, ritningsområdet och menyn
+            // Ritar färgmenyn, ritningsprogrammet, ritningsområdet och menyn.
             _colorMenu.Draw(_spriteBatch);
             _drawingProgram.Draw(_spriteBatch);
             _drawingArea.Draw(_spriteBatch);
             _menu.Draw(_spriteBatch);
 
-            _spriteBatch.End(); // Avsluta ritningen
+            _spriteBatch.End(); // Avslutar ritning.
             base.Draw(gameTime);
         }
     }
