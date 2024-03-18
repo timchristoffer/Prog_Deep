@@ -30,12 +30,12 @@ public class Draw
     public static void DrawYouWon()
     {
         Console.Clear();
-        Console.WriteLine("  __   __            _    _               _ ");
-        Console.WriteLine("  \\ \\ / /           | |  | |             | |");
-        Console.WriteLine("   \\ V /___  _   _  | |  | | ___  _ __ __| |");
-        Console.WriteLine("    \\ // _ \\| | | | | |/\\| |/ _ \\| '__/ _` |");
-        Console.WriteLine("    | | (_) | |_| | \\  /\\  / (_) | | | (_| |");
-        Console.WriteLine("    \\_/\\___/ \\__,_|  \\/  \\/ \\___/|_|  \\__,_|");
+        Console.WriteLine(" __          _______ _   _ _   _ ______ _____  _ ");
+        Console.WriteLine(" \\ \\        / /_   _| \\ | | \\ | |  ____|  __ \\| |");
+        Console.WriteLine("  \\ \\  /\\  / /  | | |  \\| |  \\| | |__  | |__) | |");
+        Console.WriteLine("   \\ \\/  \\/ /   | | | . ` | . ` |  __| |  _  /| |");
+        Console.WriteLine("    \\  /\\  /   _| |_| |\\  | |\\  | |____| | \\ \\|_|");
+        Console.WriteLine("     \\/  \\/   |_____|_| \\_|_| \\_|______|_|  \\_(_)");
         Console.WriteLine("\n\nPress any key to continue...");
         Console.ReadKey();
     }

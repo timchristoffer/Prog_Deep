@@ -7,10 +7,10 @@ class Program
         // Instansiera spelet
         Game game = new Game();
 
-        // Visa startmeny och vänta på spelarens val
+        // Visa startmeny och vänta på spelarens val.
         game.StartMenu();
 
-        // Initiera spelet efter att spelaren har valt att starta det
+        // Initiera spelet efter att spelaren har valt att starta det.
         game.Initialize();
 
         // Starta spelet
