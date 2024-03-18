@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sqwq0ufsraaz/AQIopRyBHH4lnOu0gYpGVpcYrnyog+CvgsejqldS5mOlv+R+G1Z8Shsd3g6pVNSi0QxJstlxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringFördjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\BetterThanPhotoshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timda\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.extended.content.pipeline\\3.8.0\\monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.extended.input\\3.8.0\\monogame.extended.input.3.8.0.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

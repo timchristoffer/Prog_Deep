@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O5XTFbdz4KK9Ozzs9DZJYUcib9hJnyXJqUodq5gFvpn0C91DNJHDRM9xqAMZfYndZ0j+f53gsJcS/+khGwIGHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringFördjupning\\prog_deep\\Labbar\\Ritprogrammet\\rita\\Rita\\Rita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\timda\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

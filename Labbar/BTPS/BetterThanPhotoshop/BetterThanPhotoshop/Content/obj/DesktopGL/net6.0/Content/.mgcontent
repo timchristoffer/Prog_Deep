@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/BlackButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/BlueButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/CircleButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/ClearButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/ColorButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/DrawingArea.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/GreenButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/MenuTexture.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/OrangeButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/PurpleButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/RedButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/SaveButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/SquareButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/TriangleButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/UndoButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/VioletButton.png</File>
+    <File>C:/Users/timda/OneDrive/Skrivbord/Skola/ProgrammeringFördjupning/prog_deep/Labbar/BTPS/BetterThanPhotoshop/BetterThanPhotoshop/Content/YellowButton.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

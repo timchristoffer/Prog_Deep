@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\drawingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\drawingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\drawingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\drawingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\colormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\colormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\btps\\betterthanphotoshop\\betterthanphotoshop\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E231-75A2-41DC-8FFA-F2F38133C15F}|BetterThanPhotoshop\\BetterThanPhotoshop.csproj|solutionrelative:betterthanphotoshop\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timda\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawingArea.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\DrawingArea.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\DrawingArea.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\DrawingArea.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\DrawingArea.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:40:16.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawingProgram.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\DrawingProgram.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\DrawingProgram.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\DrawingProgram.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\DrawingProgram.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:40:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Game1.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\Game1.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Game1.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\Game1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:46:29.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Menu.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\Menu.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Menu.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\Menu.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAIwHUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:20:28.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Shapes.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\Shapes.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Shapes.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\Shapes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:40:30.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\ColorMenu.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\ColorMenu.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\ColorMenu.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\ColorMenu.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAADwv4UAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:29:25.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Button.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\Button.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Button.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\Button.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:21:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Program.cs",
+              "RelativeDocumentMoniker": "BetterThanPhotoshop\\Program.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\BTPS\\BetterThanPhotoshop\\BetterThanPhotoshop\\Program.cs",
+              "RelativeToolTip": "BetterThanPhotoshop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:11:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonoGame.Content.Builder.Task.targets",
+              "DocumentMoniker": "C:\\Users\\timda\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "ToolTip": "C:\\Users\\timda\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwH4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-17T10:59:40.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

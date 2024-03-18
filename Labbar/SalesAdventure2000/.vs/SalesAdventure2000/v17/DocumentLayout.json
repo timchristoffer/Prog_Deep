@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\salesadventure2000\\sales adventure 2000\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\salesadventure2000\\sales adventure 2000\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|solutionrelative:sales adventure 2000\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6ED793E-C2CB-4E09-90C5-0F15387CF443}|Sales Adventure 2000\\SalesAdventure2000.csproj|C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\sales adventure 2000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,49 +42,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Game.cs",
               "RelativeDocumentMoniker": "Sales Adventure 2000\\Game.cs",
               "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Game.cs",
               "RelativeToolTip": "Sales Adventure 2000\\Game.cs",
-              "ViewState": "AQIAAI4BAAAAAAAAAAAgwJgBAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T09:56:23.222Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Monster.cs",
+              "RelativeDocumentMoniker": "Sales Adventure 2000\\Monster.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Monster.cs",
+              "RelativeToolTip": "Sales Adventure 2000\\Monster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:11:03.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Player.cs",
+              "RelativeDocumentMoniker": "Sales Adventure 2000\\Player.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Player.cs",
+              "RelativeToolTip": "Sales Adventure 2000\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:41:15.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Creature.cs",
-              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Creature.cs",
-              "RelativeDocumentMoniker": "Sales Adventure 2000\\Creature.cs",
-              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Creature.cs",
-              "RelativeToolTip": "Sales Adventure 2000\\Creature.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T11:02:20.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Entity.cs",
-              "RelativeDocumentMoniker": "Sales Adventure 2000\\Entity.cs",
-              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Entity.cs",
-              "RelativeToolTip": "Sales Adventure 2000\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T10:21:37.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Draw.cs",
               "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Draw.cs",
               "RelativeDocumentMoniker": "Sales Adventure 2000\\Draw.cs",
@@ -96,15 +96,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Monster.cs",
-              "RelativeDocumentMoniker": "Sales Adventure 2000\\Monster.cs",
-              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Monster.cs",
-              "RelativeToolTip": "Sales Adventure 2000\\Monster.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Entity.cs",
+              "RelativeDocumentMoniker": "Sales Adventure 2000\\Entity.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Entity.cs",
+              "RelativeToolTip": "Sales Adventure 2000\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T10:11:03.518Z"
+              "WhenOpened": "2024-03-03T10:21:37.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Creature.cs",
+              "RelativeDocumentMoniker": "Sales Adventure 2000\\Creature.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Creature.cs",
+              "RelativeToolTip": "Sales Adventure 2000\\Creature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:02:20.388Z"
             },
             {
               "$type": "Document",
@@ -120,27 +132,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Item.cs",
               "RelativeDocumentMoniker": "Sales Adventure 2000\\Item.cs",
               "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Item.cs",
               "RelativeToolTip": "Sales Adventure 2000\\Item.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAA9wFcAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T10:32:55.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Player.cs",
-              "RelativeDocumentMoniker": "Sales Adventure 2000\\Player.cs",
-              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\SalesAdventure2000\\Sales Adventure 2000\\Player.cs",
-              "RelativeToolTip": "Sales Adventure 2000\\Player.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAQwEUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:41:15.072Z"
             }
           ]
         }
