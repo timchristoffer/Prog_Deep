@@ -1,0 +1,15 @@
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\bin\Debug\net8.0\TDDTime.exe
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\bin\Debug\net8.0\TDDTime.deps.json
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\bin\Debug\net8.0\TDDTime.runtimeconfig.json
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\bin\Debug\net8.0\TDDTime.dll
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\bin\Debug\net8.0\TDDTime.pdb
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.AssemblyInfoInputs.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.AssemblyInfo.cs
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.csproj.CoreCompileInputs.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.sourcelink.json
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.dll
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\refint\TDDTime.dll
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.pdb
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\TDDTime.genruntimeconfig.cache
+C:\Users\timda\OneDrive\Skrivbord\Skola\ProgrammeringFördjupning\prog_deep\Labbar\TDDTime\TDDTime\obj\Debug\net8.0\ref\TDDTime.dll
