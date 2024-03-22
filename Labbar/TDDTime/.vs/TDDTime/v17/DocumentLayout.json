@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED5E9D-E139-4BB0-AE7A-99EBD52050EA}|TDDTime\\TDDTime.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\tddtime\\tddtime\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED5E9D-E139-4BB0-AE7A-99EBD52050EA}|TDDTime\\TDDTime.csproj|solutionrelative:tddtime\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED5E9D-E139-4BB0-AE7A-99EBD52050EA}|TDDTime\\TDDTime.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\tddtime\\tddtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED5E9D-E139-4BB0-AE7A-99EBD52050EA}|TDDTime\\TDDTime.csproj|solutionrelative:tddtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDEFB1F-6C3A-4A42-88B6-2C4439E6DC8D}|TDDTimeTests\\TDDTimeTests.csproj|c:\\users\\timda\\onedrive\\skrivbord\\skola\\programmeringf\u00F6rdjupning\\prog_deep\\labbar\\tddtime\\tddtimetests\\timetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDEFB1F-6C3A-4A42-88B6-2C4439E6DC8D}|TDDTimeTests\\TDDTimeTests.csproj|solutionrelative:tddtimetests\\timetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\TDDTime\\Time.cs",
+              "RelativeDocumentMoniker": "TDDTime\\Time.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\TDDTime\\Time.cs",
+              "RelativeToolTip": "TDDTime\\Time.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwHsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:12:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeTests.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\TDDTimeTests\\TimeTests.cs",
+              "RelativeDocumentMoniker": "TDDTimeTests\\TimeTests.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\TDDTimeTests\\TimeTests.cs",
+              "RelativeToolTip": "TDDTimeTests\\TimeTests.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAmwFkBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:11:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\TDDTime\\Program.cs",
+              "RelativeDocumentMoniker": "TDDTime\\Program.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\Skrivbord\\Skola\\ProgrammeringF\u00F6rdjupning\\prog_deep\\Labbar\\TDDTime\\TDDTime\\Program.cs",
+              "RelativeToolTip": "TDDTime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:11:18.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
